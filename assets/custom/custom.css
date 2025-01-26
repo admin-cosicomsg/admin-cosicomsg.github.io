@@ -1,0 +1,59 @@
+.cid-uAOs4YiSvK .social-row .soc-item a:hover .mbr-iconfont,
+.cid-uAOs4YiSvK .social-row .soc-item a:focus .mbr-iconfont {
+  background-color: yellow;
+}
+.cid-uAOs4YiSvK .social-row .soc-item a .mbr-iconfont {
+  width: 72px;
+  height: 72px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 100%;
+  font-size: 32px;
+  background-color: #ffea64;
+  color: #000000;
+  transition: all 0.3s ease-in-out;
+}
+.cid-uAOs4YiSvK .social-row .soc-item a .mbr-iconfont-shopee {
+  width: 72px;
+  height: 72px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 100%;
+  font-size: 32px;
+  background-color: #EE4D2D;
+  color: white;
+  transition: all 0.3s ease-in-out;
+}
+.cid-uAOs4YiSvK .social-row .soc-item a .mbr-iconfont-instagram {
+  width: 72px;
+  height: 72px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 100%;
+  font-size: 32px;
+  background: radial-gradient(
+    circle farthest-corner at 28% 100%,
+    #fcdf8f 0%,
+    #fbd377 10%,
+    #fa8e37 22%,
+    #f73344 35%,
+    transparent 65%
+  ), linear-gradient(145deg, #3051f1 10%, #c92bb7 70%);
+  color: white;
+  transition: all 0.3s ease-in-out;
+}
+.cid-uAOs4YiSvK .social-row .soc-item a .mbr-iconfont-whatsapp {
+  width: 72px;
+  height: 72px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 100%;
+  font-size: 32px;
+  background-color: #25d366;
+  color: white;
+  transition: all 0.3s ease-in-out;
+}
