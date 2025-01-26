@@ -1632,18 +1632,6 @@ a {
 .cid-uAOs4YiSvK .social-row .soc-item a:focus .mbr-iconfont {
   background-color: yellow;
 }
-.cid-uAOs4YiSvK .social-row .soc-item a .mbr-iconfont {
-  width: 72px;
-  height: 72px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 100%;
-  font-size: 32px;
-  background-color: #ffea64;
-  color: #000000;
-  transition: all 0.3s ease-in-out;
-}
 .cid-uAOs4YiSvK .social-row .soc-item a .mbr-iconfont-shopee {
   width: 72px;
   height: 72px;
